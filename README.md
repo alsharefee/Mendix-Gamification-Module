@@ -13,7 +13,7 @@ A lightweight, scalable Gamification module for Mendix. This module allows devel
 
 
 ## 🛠 Installation
-1. Download the `.mpk` file.
+1. Download the `.mpk` file in the Releases section.
 2. Import the module into your Mendix Project.
 3. Map the module security roles (`User` and `Administrator`) to your project roles.
 4. Add the `ASu_InitializeLevelConfig` microflow to your app's **After Startup** event.
