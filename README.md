@@ -9,7 +9,7 @@ A lightweight, scalable Gamification module for Mendix. This module allows devel
 - **Badge System:** Many-to-Many association architecture for badges and rewards.
 - **Ready-to-use UI:** Includes snippets for Profile Cards and Leaderboards.
 - **Easy Integration:** Uses a 1-1 association with `System.User` to avoid entity inheritance conflicts.
-- **Fully open-source:** With editable microflows and domain models. Easily customize XP logic and level scaling to fit your specific project needs.
+- **Fully Open-Source:** With editable microflows and domain models. Easily customize XP logic and level scaling to fit your specific project needs.
 
 
 
