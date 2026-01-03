@@ -1,5 +1,5 @@
 # Mendix-Gamification-Module
-A plug-and-play Gamification engine for Mendix apps. Features include XP calculation, automated leveling, and a badge system with a non-intrusive 1-1 User architecture.
+A plug-and-play Gamification engine for Mendix apps. Features include XP calculation, automated leveling, and a badge system with a non-intrusive User architecture.
 
 A lightweight, scalable Gamification module for Mendix. This module allows developers to quickly integrate user engagement features like **Experience Points (XP)**, **Leveling**, and **Achievements/Badges** without modifying their existing User entities.
 
